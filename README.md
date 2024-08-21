@@ -18,7 +18,7 @@ If all boxes are filled without a winner, the game results in a draw.
 ## Project Structure
 
 - **index.html:** The HTML file that contains the structure of the game board and buttons.
-- **styles.css:** The CSS file that provides styling for the game.
+- **style.css:** The CSS file that provides styling for the game.
 - **script.js:** The JavaScript file that contains the game logic, including player turns, winner detection, and reset functionality.
 
 ## How to Play
